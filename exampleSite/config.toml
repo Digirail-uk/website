@@ -195,7 +195,7 @@ icon = "ion-social-googleplus-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "#https://www.linkedin.com/company/digirail-uk"
 [[params.social]]
 icon = "ion-social-pinterest-outline"
 link = "#"
