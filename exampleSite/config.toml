@@ -16,14 +16,6 @@ URL = "about"
 name = "About"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
@@ -40,10 +32,6 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.main]]
 URL = "service"
 name = "Service"
 weight = 4
@@ -51,10 +39,6 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 5
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
