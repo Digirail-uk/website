@@ -57,9 +57,10 @@ features:
       and UI design for web and mobile, we help our clients to create the best digital
       experiences.
   - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: BI and Analytics Solutions
+    content: To enable and empower our customers' businesses, DVT provides comprehensive
+      consulting, implementation and support in BI (Business Intelligence), Analytics
+      and Big Data.
 testimonial:
   enable: true
 mission_vision:
