@@ -8,8 +8,8 @@ banner:
     Small or large, you will be interested to hear how we can help you.
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Discover Our Services
+    link: service
 about:
   enable: true
   title: About Us
