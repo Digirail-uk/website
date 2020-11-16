@@ -46,9 +46,11 @@ features:
     content: Leverage RPA to reduce risk, address administration costs and bring efficiency
       and transformation to your railway business.
   - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Agile Consulting and Coaching
+    content: We specialise in Agile training, consulting and coaching to assist organisations
+      with their Agile transformation journey. Our clients are reaping the business
+      benefits of an Agile approach to software development and remain ahead of their
+      competitors.
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
