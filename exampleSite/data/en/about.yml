@@ -12,11 +12,8 @@ about:
     label: Learn more about DVT
     link: "#www.dvtsoftware.com"
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: ''
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
+  - icon: ion-ios-time-outline
+    name: Years of Experience
     count: "35000"
   - icon: ion-ios-phone-portrait-outline
     name: Digital Services
