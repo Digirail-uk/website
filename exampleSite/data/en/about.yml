@@ -3,10 +3,12 @@ about:
   enable: true
   image: images/company/about.jpg
   title: Part of Dynamic Visual Technologies - DVT
-  content: DigiRail is part of a Dynamic Visual Technologies(DVT). DVT has over 500
+  content: 'DigiRail is part of a Dynamic Visual Technologies(DVT). DVT has over 500
     staff and has been providing digital expertise for more than 20 years. Based in
     South Africa and United Kingdom DVT focuses on software development with highly
     skilled teams that can quickly turn requirements into working solutions.
+
+'
   button:
     enable: true
     label: Learn more about DVT
