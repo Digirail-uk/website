@@ -14,7 +14,7 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: "349"
+    count: ''
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
@@ -28,8 +28,8 @@ about:
     name: Satisfied Customer
     count: "75"
   - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+    name: Staff
+    count: 500+
 features:
   enable: true
   title: We are indepented Design & Development Agency
