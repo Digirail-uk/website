@@ -26,7 +26,7 @@ about:
     count: "10"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
-    count: "75"
+    count: 100+
   - icon: ion-ios-body-outline
     name: Staff
     count: 500+
