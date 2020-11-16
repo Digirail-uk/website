@@ -42,9 +42,9 @@ features:
     content: Empower your workforce with applications that can run on their mobile
       phones to reduce paperwork and providing realtime information.
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Robotic Process Automation '
+    content: Leverage RPA to reduce risk, address administration costs and bring efficiency
+      and transformation to your railway business.
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
