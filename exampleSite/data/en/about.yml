@@ -38,9 +38,9 @@ features:
     content: Moving legacy systems to the cloud, not only reduces costs, but also
       improves security while being better for the environment.
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Mobile App development
+    content: Empower your workforce with applications that can run on their mobile
+      phones to reduce paperwork and providing realtime information.
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
