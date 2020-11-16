@@ -16,10 +16,10 @@ about:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: DigiRail is part of the Dynamic Visual Technologies and also part of the
-    wider group of Dynamic Tech. With over 1000 staff in the group and 20 years of
-    growth, we have the Digital expertise to help your business. The DigiRail business
-    is laser focused on helping railway companies on their digital journey.
+  content: DigiRail is part of the DVT and also part of the wider group of Dynamic
+    Tech. With over 1000 staff in the group and 20 years of growth, we have the Digital
+    expertise to help your business. The DigiRail business is laser focused on helping
+    railway companies on their digital journey.
   image: images/1-dvt_icon-rgb.png
 portfolio:
   enable: true
