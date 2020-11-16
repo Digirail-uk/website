@@ -31,12 +31,12 @@ about:
     count: "550"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: Our services to enhance your railway company.
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Cloud Migration
+    content: Moving legacy systems to the cloud, not only reduces costs, but also
+      improves security while being better for the environment.
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
