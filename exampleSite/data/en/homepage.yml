@@ -63,8 +63,8 @@ funfacts:
     name: Happy customers
     count: "100"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Global offices
+    count: "5"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
