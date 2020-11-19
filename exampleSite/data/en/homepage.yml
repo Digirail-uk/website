@@ -29,7 +29,7 @@ portfolio:
     better for the environment, but has better security and allows our customers to
     scale their great ideas to meet the demands of their business.\n"
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
