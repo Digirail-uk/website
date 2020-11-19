@@ -24,10 +24,10 @@ portfolio:
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: "Digital technology should not hold any railway company back. It all starts
-    with your Great Idea, and at DigiRail, we take those great ideas and turn them
+    with your Great Ideas, and at DigiRail, we take those great ideas and turn them
     into digital solutions. \nWe are BIG believers in the Cloud, as this is not only
     better for the environment, but has better security and allows our customers to
-    scale their great ideas to meet the demands of their business."
+    scale their great ideas to meet the demands of their business.\n"
   button:
     enable: true
     label: View Works
