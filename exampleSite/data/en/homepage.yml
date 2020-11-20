@@ -3,9 +3,9 @@ banner:
   enable: true
   bg_image: images/4.png
   bg_overlay: true
-  title: Is your railway business <br/> looking for that Digital advantage?
-  content: We have a wealth of experience with helping companies to digitally modernise.
-    Small or large, you will be interested to hear how we can help you.
+  title: '"The Digital Railway" should not be confined to signalling'
+  content: 'At Digirail we believe in digitizing the details, enabling colleagues
+    with digital tools, harnessing data and driving up efficiency '
   button:
     enable: true
     label: Discover Our Services
@@ -29,10 +29,10 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN DIGITISING THE BASICS
-  content: "For too long, rail industry data and industry processes have lived in
-    a filing cabinet, DigiRail are here to relocate that into an accessible place
-    in a format that can be used, measured, analysed\nLayered approach, getting the
-    foundations right  \n"
+  content: |
+    For too long, rail industry data and industry processes have lived in a filing cabinet, DigiRail are here to relocate that into an accessible place in a format that can be used, measured, analysed
+    Layered approach, getting the foundations right .
+    Fast affordable projects that gain fast adoption and deliver benefits quickly
   button:
     enable: false
     label: View Works
