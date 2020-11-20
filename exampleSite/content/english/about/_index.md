@@ -1,6 +1,6 @@
 ---
 title: About DigiRail
-description: ''
+description: What do we do
 bg_image: images/featue-bg.jpg
 
 ---
