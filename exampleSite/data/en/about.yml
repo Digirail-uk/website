@@ -2,7 +2,7 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: Part of Dynamic Visual Technologies - DVT
+  title: Part of Dynamic Visual Technologies - DVT (industry focus, delivery depth)
   content: |
     At a system level UK Rail is digitizing. Whether that be the introduction of ERTMS, the opening of new digitally enable control centres or the deployment of modern, connected rolling stock, the big ticket digital change is coming.
 
@@ -35,6 +35,11 @@ features:
   enable: true
   title: Our services to enhance your railway company.
   feature_item:
+  - icon: Security
+    name: Cyber Security Specifically designed for rail
+    content: 'The rail landscape is different from any other from a cyber security
+      perspective with dispersed geographical infrastructure through to unique control
+      methodology means rail requires a bespoke and focused approach to security. '
   - icon: ion-ios-color-filter-outline
     name: Cloud Migration
     content: Moving legacy systems to the cloud, not only reduces costs, but also
