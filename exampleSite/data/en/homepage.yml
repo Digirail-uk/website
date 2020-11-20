@@ -28,12 +28,11 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: "Digital technology should not hold any railway company back. It all starts
-    with your Great Ideas, and at DigiRail, we take those great ideas and turn them
-    into digital solutions. \nWe are BIG believers in the Cloud, as this is not only
-    better for the environment, but has better security and allows our customers to
-    scale their great ideas to meet the demands of their business.\n"
+  title: WE BELIEVE IN DIGITISING THE BASICS
+  content: "For too long, rail industry data and industry processes have lived in
+    a filing cabinet, DigiRail are here to relocate that into an accessible place
+    in a format that can be used, measured, analysed\nLayered approach, getting the
+    foundations right  \n"
   button:
     enable: false
     label: View Works
