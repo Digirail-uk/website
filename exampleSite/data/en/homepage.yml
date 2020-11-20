@@ -64,7 +64,7 @@ funfacts:
     count: "10"
   - icon: ion-ios-compose-outline
     name: Happy customers
-    count: "100"
+    count: "101"
   - icon: ion-ios-timer-outline
     name: Global offices
     count: "5"
