@@ -2,7 +2,7 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: Part of Dynamic Visual Technologies - DVT (industry focus, delivery depth)
+  title: Part of DVT (industry focus, delivery depth)
   content: |
     At a system level UK Rail is digitizing. Whether that be the introduction of ERTMS, the opening of new digitally enable control centres or the deployment of modern, connected rolling stock, the big ticket digital change is coming.
 
@@ -19,7 +19,7 @@ about:
   - icon: ion-ios-time-outline
     name: Years of Experience
     count: "20"
-  - icon: ion-iphone-outline
+  - icon: ion-ios-toggle-outline
     name: Digital Services
     count: "10"
   - icon: ion-ios-location-outline
