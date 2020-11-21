@@ -44,7 +44,7 @@ features:
     name: Cloud Migration
     content: Moving legacy systems to the cloud, not only reduces costs, but also
       improves security while being better for the environment.
-  - icon: ion-ios-iphone
+  - icon: ion-android-phone-portrait
     name: Mobile App development
     content: Empower your workforce with applications that can run on their mobile
       phones to reduce paperwork and providing realtime information.
