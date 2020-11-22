@@ -5,7 +5,7 @@ banner:
   bg_overlay: true
   title: '"The Digital Railway" should not be confined to signalling'
   content: 'At DigiRail, we believe in digitising the details, enabling railway colleagues
-    with digital tools, harnessing data and driving up efficiency. '
+    with digital tools, harnessing data and driving efficiency. '
   button:
     enable: true
     label: Discover Our Services
