@@ -55,9 +55,9 @@ service:
     content: 'Leverage RPA to reduce risk, address administrative costs and bring
       efficiency and transformation to your business processes '
   - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: UX/UI Design
+    content: Create digital experiences with a user-centric approach. Our designers
+      will help you make an impact.
   - icon: ion-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
