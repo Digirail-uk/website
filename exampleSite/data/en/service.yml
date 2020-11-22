@@ -64,9 +64,9 @@ service:
       application or develop your new applications to leverage the benefits of cloud
       services.
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Business Intelligence and Analytics
+    content: To enable and empower our customers businesses, DVT provides comprehensive
+      consulting, implementation and support in BI, Analytics, Big Data and Data Lakes.
   - icon: ion-earth
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
