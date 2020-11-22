@@ -51,9 +51,9 @@ service:
     content: 'Worried about the lifespan of your existing applications? Modernise
       your application by starting with an assessment. '
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Robotic Process Automation
+    content: 'Leverage RPA to reduce risk, address administrative costs and bring
+      efficiency and transformation to your business processes '
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
