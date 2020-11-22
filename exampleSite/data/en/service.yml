@@ -38,36 +38,38 @@ service:
     scale.
   service_item:
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Custom Software Development
+    content: 20 years track record of custom software development projects. Experience
+      to develop custom software applications for enterprise, web, desktop and mobile
+      platforms.
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Mobile App Development
+    content: 'Need an app to increase sales, improve efficiency, improve productivity,
+      increase workforce, flexibility or be a market disruptor. '
   - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Application Modernisation on Azure Cloud
+    content: 'Worried about the lifespan of your existing applications? Modernise
+      your application by starting with an assessment. '
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Robotic Process Automation
+    content: 'Leverage RPA to reduce risk, address administrative costs and bring
+      efficiency and transformation to your business processes '
   - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: UX/UI Design
+    content: Create digital experiences with a user-centric approach. Our designers
+      will help you make an impact.
   - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Microsoft Azure Cloud Application Services
+    content: Thinking of moving to the cloud? Lets us help you migrate your existing
+      application or develop your new applications to leverage the benefits of cloud
+      services.
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Business Intelligence and Analytics
+    content: To enable and empower our customers businesses, DVT provides comprehensive
+      consulting, implementation and support in BI, Analytics, Big Data and Data Lakes.
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Agile Consulting and Coaching
+    content: 'We specialise in Agile training, consulting and coaching to assist organisations
+      with their Agile transformation journey. '
 cta:
   enable: true
