@@ -40,7 +40,7 @@ service:
   - icon: ion-coffee
     name: Custom Software Development
     content: 20 years track record of custom software development projects. Experience
-      to develop custom software, web, desktop and mobile platforms.
+      to develop custom software, web, desktop and mobile.
   - icon: ion-compass
     name: Mobile App Development
     content: 'Need an app to increase sales, improve efficiency, improve productivity,
