@@ -2,16 +2,16 @@
 about:
   enable: true
   title: Where is our focus?
-  content: "One of my long term frustrations around digital transformation in rail
-    has been the sectors broad reliance on major projects and investments to drive
-    change.  Industry leaders often find it hard to get excited about a technology
-    project unless it is large in scale and worth £MMM where I feel the immediate
+  content: "One of the long term frustrations around digital transformation in rail
+    has been the sectors broad reliance on significant projects and investments to
+    drive change.  Industry leaders often find it hard to get excited about a technology
+    project unless it is large in scale and worth £1M+. At DigiRail, we feel the immediate
     priority for digitization is in and around those systems and process that could
     deliver quick wins, cultural shifts in workforce expectations and short term improvements
-    in efficiency.  \n \nDigiRail sees 5 digital priorities where benefits can be
-    delivered quickly and affordably:\n \n1.\tCustomer Engagement\n2.\tPlanning and
-    Resourcing\n3.\tEnabling Colleagues\n4.\tAsset Management\n5.\tHarnessing Data\n
-    \n"
+    inefficiency.  \n \nDigiRail sees five digital priorities were benefits that can
+    be delivered quickly and affordably:\n \n1.\tCustomer Engagement\n2.\tPlanning
+    and Resourcing\n3.\tEnabling Colleagues\n4.\tAsset Management\n5.\tHarnessing
+    Data\n"
   image: "/images/8.png"
 featured_service:
   enable: false
@@ -34,9 +34,8 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: Delivering solution engineered to provide rapid value at appropriate
+    scale.
   service_item:
   - icon: ion-coffee
     name: Branding
