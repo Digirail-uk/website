@@ -52,7 +52,7 @@ cta:
 funfacts:
   enable: true
   title: Fun Facts About Us
-  description: DigiRail was created in 2020. DVT was created in 1999.
+  description: DigiRail was created in 2020 by DVT, which was created in 1999.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Employees
