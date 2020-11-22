@@ -47,9 +47,9 @@ service:
     content: 'Need an app to increase sales, improve efficiency, improve productivity,
       increase workforce, flexibility or be a market disruptor. '
   - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Application Modernisation on Azure Cloud
+    content: 'Worried about the lifespan of your existing applications? Modernise
+      your application by starting with an assessment. '
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
