@@ -1,4 +1,4 @@
-baseURL = "http://digirail.uk"
+baseURL = "https://digirail.uk"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
