@@ -29,10 +29,9 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN DIGITISING THE BASICS
-  content: |
-    For too long, rail industry data and industry processes have lived in a filing cabinet, DigiRail are here to relocate that into an accessible place in a format that can be used, measured, analysed
-    Layered approach, getting the foundations right .
-    Fast affordable projects that gain fast adoption and deliver benefits quickly
+  content: |-
+    For too long, rail industry data and industry processes have lived in a filing cabinet, DigiRail is here to relocate that into an accessible place in a format that can be used, measured, analysed layered approach, getting the foundations right.
+    Fast and affordable projects that gain rapid adoption and deliver benefits quickly.
   button:
     enable: false
     label: View Works
