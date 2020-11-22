@@ -43,9 +43,9 @@ service:
       to develop custom software applications for enterprise, web, desktop and mobile
       platforms.
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Mobile App Development
+    content: 'Need an app to increase sales, improve efficiency, improve productivity,
+      increase workforce, flexibility or be a market disruptor. '
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
