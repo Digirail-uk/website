@@ -68,8 +68,8 @@ service:
     content: To enable and empower our customers businesses, DVT provides comprehensive
       consulting, implementation and support in BI, Analytics, Big Data and Data Lakes.
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Agile Consulting and Coaching
+    content: 'We specialise in Agile training, consulting and coaching to assist organisations
+      with their Agile transformation journey. '
 cta:
   enable: true
