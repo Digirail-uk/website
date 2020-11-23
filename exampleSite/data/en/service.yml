@@ -37,19 +37,18 @@ service:
   description: Delivering solution engineered to provide rapid value at appropriate
     scale.
   service_item:
-  - icon: ion-lock-combination
-    name: Cyber Security
-    content: 'The rail landscape is different from any other from a cyber security
-      perspective with dispersed geographical infrastructure through to unique control
-      methodology means rail requires a bespoke and focused approach to security. '
-  - icon: ion-ios-color-filter-outline
-    name: Cloud Migration
-    content: Moving legacy systems to the cloud, not only reduces costs, but also
-      improves security while being better for the environment.
-  - icon: ion-android-phone-portrait
-    name: Mobile App development
-    content: Empower your workforce with applications that can run on their mobile
-      phones to reduce paperwork and providing realtime information.
+  - icon: ion-coffee
+    name: Custom Software Development
+    content: 20 years track record of custom software development projects. Experience
+      to develop custom software, web, desktop and mobile.
+  - icon: ion-compass
+    name: Mobile App Development
+    content: 'Need an app to increase sales, improve efficiency, improve productivity,
+      increase workforce, flexibility or be a market disruptor. '
+  - icon: ion-image
+    name: Application Modernisation on Azure Cloud
+    content: 'Worried about the lifespan of your existing applications? Modernise
+      your application by starting with an assessment. '
   - icon: ion-bug
     name: Robotic Process Automation
     content: 'Leverage RPA to reduce risk, address administrative costs and bring
