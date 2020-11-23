@@ -35,7 +35,7 @@ features:
   enable: true
   title: Our services to enhance your railway company.
   feature_item:
-  - icon: ion-ios-unlocked
+  - icon: ion-lock-combination
     name: Cyber Security Specifically designed for rail.
     content: 'The rail landscape is different from any other from a cyber security
       perspective with dispersed geographical infrastructure through to unique control
