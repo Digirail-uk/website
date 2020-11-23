@@ -46,10 +46,10 @@ service:
     name: Cloud Migration
     content: Moving legacy systems to the cloud, not only reduces costs, but also
       improves security while being better for the environment.
-  - icon: ion-image
-    name: Application Modernisation on Azure Cloud
-    content: 'Worried about the lifespan of your existing applications? Modernise
-      your application by starting with an assessment. '
+  - icon: ion-android-phone-portrait
+    name: Mobile App development
+    content: Empower your workforce with applications that can run on their mobile
+      phones to reduce paperwork and providing realtime information.
   - icon: ion-bug
     name: Robotic Process Automation
     content: 'Leverage RPA to reduce risk, address administrative costs and bring
