@@ -1,0 +1,7 @@
+<!-- SVG {{ . }} -->
+<span class="inline-svg" >
+{{- $fname:=print "ionicons/" . ".svg" -}}
+{{- $path:="<path" -}}
+{{- $fill:="<path fill=\"currentColor\"" -}}
+{{ replace (readFile $fname) $path $fill | safeHTML }}
+</span>

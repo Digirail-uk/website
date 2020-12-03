@@ -37,7 +37,7 @@ service:
   description: Delivering solution engineered to provide rapid value at appropriate
     scale.
   service_item:
-  - icon: ion-coffee
+  - icon: ion-coffee 
     name: Custom Software Development
     content: 20 years track record of custom software development projects. Experience
       to develop custom software, web, desktop and mobile.
