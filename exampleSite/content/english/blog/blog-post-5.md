@@ -9,7 +9,7 @@ categories:
 tags:
 - Advice
 - AI
-description: this is meta description
+description: DigiRail Chairman gives his insights into user adoption.
 type: post
 
 ---
