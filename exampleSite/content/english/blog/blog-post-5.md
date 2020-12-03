@@ -3,7 +3,7 @@ title: 'User Adoption – The Achilles Heel of Digital Transformation?  '
 date: '2018-09-24T11:07:10.000+06:00'
 author: Mark Dinn
 image: images/blog/blog-post-5.jpg
-bg_image: images/featue-bg.jpg
+bg_image: "/images/2.png"
 categories:
 - Artificial Intelligence
 tags:
