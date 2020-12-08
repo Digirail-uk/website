@@ -60,10 +60,10 @@ funfacts:
   - icon: ion-ios-glasses-outline
     name: Service
     count: "10"
-  - icon: ion-ios-compose-outline
+  - icon: ios-people
     name: Happy customers
     count: "101"
-  - icon: ion-ios-timer-outline
+  - icon: ios-timer
     name: Global offices
     count: "5"
   testimonial_slider: []

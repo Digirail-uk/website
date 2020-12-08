@@ -16,54 +16,54 @@ about:
     label: Learn more about DVT
     link: "#www.dvtsoftware.com"
   funfacts:
-  - icon: ion-ios-time-outline
+  - icon: ios-time
     name: Years of Experience
     count: "20"
-  - icon: ion-ios-toggle-outline
+  - icon: ios-flashlight
     name: Digital Services
     count: "10"
-  - icon: ion-ios-location-outline
+  - icon: ios-globe
     name: Global Offices
     count: "5"
-  - icon: ion-ios-people-outline
+  - icon: ios-people
     name: Satisfied Customer
     count: "100"
-  - icon: ion-ios-body-outline
+  - icon: ios-body
     name: Staff
     count: "550"
 features:
   enable: true
   title: Our services to enhance your railway company.
   feature_item:
-  - icon: ion-lock-combination
+  - icon: ios-lock
     name: Cyber Security Specifically designed for rail.
     content: 'The rail landscape is different from any other from a cyber security
       perspective with dispersed geographical infrastructure through to unique control
       methodology means rail requires a bespoke and focused approach to security. '
-  - icon: ion-ios-color-filter-outline
+  - icon: ios-color-filter
     name: Cloud Migration
     content: Moving legacy systems to the cloud, not only reduces costs, but also
       improves security while being better for the environment.
-  - icon: ion-android-phone-portrait
+  - icon: ios-phone-portrait
     name: Mobile App development
     content: Empower your workforce with applications that can run on their mobile
       phones to reduce paperwork and providing realtime information.
-  - icon: ion-ios-game-controller-b-outline
+  - icon: ios-repeat
     name: 'Robotic Process Automation '
     content: Leverage RPA to reduce risk, address administration costs and bring efficiency
       and transformation to your railway business.
-  - icon: ion-ios-mic-outline
+  - icon: ios-microphone
     name: Agile Consulting and Coaching
     content: We specialise in Agile training, consulting and coaching to assist organisations
       with their Agile transformation journey. Our clients are reaping the business
       benefits of an Agile approach to software development and remain ahead of their
       competitors.
-  - icon: ion-ios-lightbulb-outline
+  - icon: ios-bulb
     name: UI/UX Design
     content: With services ranging from UX research, design sprints, user testing
       and UI design for web and mobile, we help our clients to create the best digital
       experiences.
-  - icon: ion-ios-star-outline
+  - icon: ios-star
     name: BI and Analytics Solutions
     content: To enable and empower our customers' businesses, DVT provides comprehensive
       consulting, implementation and support in BI (Business Intelligence), Analytics
