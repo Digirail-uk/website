@@ -1,11 +1,14 @@
-+++
-draft = true
-email = "jason@digirail.uk"
-image = ""
-social = []
-title = "Jason Bramsden"
+---
+title: Jason Bramsden
+email: jason@digirail.uk
+bg_image: images/featue-bg.jpg
+social:
+- icon: ion-social-facebook-outline
+  link: "#"
+- icon: ion-social-twitter-outline
+  link: "#"
+- icon: ion-social-pinterest-outline
+  link: "#"
 
-+++
-Jason is the Managing Director of DigiRail parent company DVT. 
-
-DVT has over 500 resources that help businesses implement their digital strategy. 
+---
+Chairman of DigiRail
