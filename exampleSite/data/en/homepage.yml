@@ -4,28 +4,32 @@ banner:
   bg_image: images/4.png
   bg_overlay: true
   title: Making Digital Happen
-  content: 'At DigiRail we believe in digitising the details.  We enable railway colleagues
-    with the best digital tools on the market, we digitise previously manual processes,
-    we integrate digital systems to provide consistency and harmony and we harness
-    data to make decision making, service delivery and profitability achievable. '
+  content: 'At DigiRail we believe in digitising the details.  We provide railway
+    colleagues with the best digital tools on the market, we digitise previously manual
+    processes, we integrate digital systems to provide consistency and harmony and
+    we harness data to make decision making, service delivery and profitability achievable. '
   button:
     enable: true
     label: Discover Our Services
     link: service
 about:
   enable: true
-  title: About DigiRail
+  title: 'Why DigiRail? Why Now? '
   description: Powered by DVT
-  content: |-
-    UK Rail is digitising. Whether that be the introduction of ERTMS, the opening of new digitally enable control centres or the deployment of modern, connected rolling stock; the big-ticket digital change is coming.
-
-    However, change is being brought to an industry that does not benefit from widespread digitisation today or from a culture familiar with digital tools and processes.
-
-    DigiRail intends to help change that. If extensive scale system digitisation is to be truly successful, it needs to land in an environment that can embrace its values and benefits. Workforces need to embrace digital ways of working while retaining the knowledge and understanding of legacy systems that still currently operate much of the infrastructure, data needs to drive most decisions, industry-wide interactions at both commercial and operational level need to be delivered via digital tools, and rail users need to see the benefit of digitisation in the way that they interact with us.
-
-    We call it Digitising the Details, and we are on a mission to help rail businesses do just that. Those that do will be perfectly placed to exploit the data, efficiency and opportunity that system-level digitisation will bring.
-
-    DigiRail is part of the DVT and also part of the broader group of Dynamic Tech. With over 1000 staff in the group and 20 years of growth, we have the Digital expertise to help your business. The DigiRail business is laser-focused on helping railway companies on their digital journey.
+  content: "\nDigiRail sees a future for rail where every colleague embraces digital
+    ways of working, where rich data drives most decisions, where industry-wide interactions
+    at both commercial and operational level are delivered via digital tools, and
+    rail users see the benefit of digitisation in the way that they interact with
+    us.\n\nWe call it Digitising the Details, and we are on a mission to help rail
+    businesses do just that. Those that do will be perfectly placed to exploit the
+    data, efficiency and opportunity that infrastructure level digitisation will bring.\n\nDigiRail
+    is proud to be part of DVT. With over 1000 staff in the group and 20 years of
+    growth, we have the digital expertise to modernise your business. \n\nDigirail
+    is application agnostic, we do not bring one specific product/tool to the market.
+    What we do bring is a passion for integrating the best applications into core
+    business processes, a focus on helping colleagues begin to adopt those tools and
+    applications and we commit to ensure that data is harnessed from these applications
+    and exploited in the day to day running of rail businesses."
   image: images/1-dvt_icon-rgb.png
 portfolio:
   enable: true
