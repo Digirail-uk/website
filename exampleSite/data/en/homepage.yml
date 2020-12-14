@@ -3,9 +3,11 @@ banner:
   enable: true
   bg_image: images/4.png
   bg_overlay: true
-  title: '"The Digital Railway" should not be confined to signalling'
-  content: 'At DigiRail, we believe in digitising the details, enabling railway colleagues
-    with digital tools, harnessing data and driving efficiency. '
+  title: Making Digital Happen
+  content: 'At DigiRail we believe in digitising the details.  We enable railway colleagues
+    with the best digital tools on the market, we digitise previously manual processes,
+    we integrate digital systems to provide consistency and harmony and we harness
+    data to make decision making, service delivery and profitability achievable. '
   button:
     enable: true
     label: Discover Our Services
