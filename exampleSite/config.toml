@@ -4,11 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "DigiRail | Helping to digitally modernise the railways"
-[sitemap]
-changefreq = "monthly" 
-filename = "sitemap.xml"
-priority = 0.5
+title = "DigiRail | Digitising the Details"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Dynamic Visual Technologies](https://dvtsoftware.com) All Rights Reserved"
@@ -106,3 +102,7 @@ link = "#https://www.linkedin.com/company/digirail-uk"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#https://twitter.com/RailDigi"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
