@@ -31,9 +31,9 @@ featured_service:
       impedit repudiandae omnis est temporibus.
 service:
   enable: false
-  title: Our Services
-  description: Delivering solution engineered to provide rapid value at appropriate
-    scale.
+  title: And therefore.............
+  description: We digitise, we integrate and we leave a legacy of user adoption and
+    value.
   service_item:
   - icon: ion-coffee
     name: Custom Software Development
