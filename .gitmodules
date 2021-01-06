@@ -1,0 +1,4 @@
+[submodule "exampleSite/prod"]
+	path = exampleSite/prod
+	url = https://github.com/Digirail-uk/Digirail-com.github.io.git
+	branch = main

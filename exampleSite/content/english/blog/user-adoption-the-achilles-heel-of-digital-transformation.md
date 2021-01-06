@@ -1,6 +1,6 @@
 ---
 title: 'User Adoption – The Achilles Heel of Digital Transformation?  '
-date: '2018-09-24T11:07:10.000+06:00'
+date: '2020-11-28T11:07:10.000+06:00'
 author: Tim Robinson
 image: images/blog/blog-post-5.jpg
 bg_image: "/images/2.png"
