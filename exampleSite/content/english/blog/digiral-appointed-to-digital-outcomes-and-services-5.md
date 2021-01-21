@@ -2,7 +2,7 @@
 title: 'DigiRail appointed to Digital Outcomes and Specialists 5 (DOS5)'
 date: '2021-01-20T17:00:00.000+06:00'
 author: Jason Bramsden
-image: /images/crown-commercial-service-supplier-logo-png-pagespeed-ce_-6xaz1raq6w.png
+image: /images/crown-commercial-service-supplier-logo.png
 bg_image: "/images/2.png"
 categories:
 - Artificial Intelligence
