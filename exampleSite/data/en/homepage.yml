@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/4.png
-  bg_overlay: true
+  bg_overlay: false
   title: Making Digital Happen
   content: 'At DigiRail we believe in digitising the details.  We provide railway
     colleagues with the best digital tools on the market, we digitise previously manual
