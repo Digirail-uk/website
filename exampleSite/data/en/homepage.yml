@@ -4,6 +4,8 @@ banner:
   bg_image: images/shutterstock_316324352.png
   bg_overlay: false
   title: Digitising the detail
+  content: ''
+  button:
     enable: true
     label: Services
     link: service
