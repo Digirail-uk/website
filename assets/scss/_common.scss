@@ -278,6 +278,31 @@ input[type="tel"] {
 
 }
 
+.about {
+  background: $secondary-color;
+  
+  .block {
+   text-align: center;
+
+   h2 {
+     font-family: calibri-bold; 
+     font-weight: 100;
+     font-size: 58px;
+     color: $tertiary-color;
+     text-transform: none;
+   }
+  
+   .description {
+     font-weight: 100;
+   
+     font-family: calibri-bold;
+     font-size: 30px;
+     color: $tertiary-color;
+   }
+  
+ }
+  
+}
 
 .page-title {
   padding: 100px 0;

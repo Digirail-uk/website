@@ -11,22 +11,11 @@ banner:
     link: service
 about:
   enable: true
+  icon: 'lightbulb'
   title: 'Why DigiRail? Why Now? '
-  description: Powered by DVT
-  content: "\nDigiRail sees a future for rail where every colleague embraces digital
-    ways of working, where rich data drives most decisions, where industry-wide interactions
-    at both commercial and operational level are delivered via digital tools, and
-    rail users see the benefit of digitisation in the way that they interact with
-    us.\n\nWe call it Digitising the Details, and we are on a mission to help rail
-    businesses do just that. Those that do will be perfectly placed to exploit the
-    data, efficiency and opportunity that infrastructure level digitisation will bring.\n\nDigiRail
-    is proud to be part of DVT. With over 1000 staff in the group and 20 years of
-    growth, we have the digital expertise to modernise your business. \n\nDigirail
-    is application agnostic, we do not bring one specific product/tool to the market.
-    What we do bring is a passion for integrating the best applications into core
-    business processes, a focus on helping colleagues begin to adopt those tools and
-    applications and we commit to ensure that data is harnessed from these applications
-    and exploited in the day to day running of rail businesses."
+  subtitle: Powered by DVT
+  description: "We call it Digitising the Details, and we are on a mission to help rail businesses do just that. Those that do will be perfectly placed to exploit the data, efficiency and opportunity that infrastructure level digitisation will bring."  
+  content: "\nDigiRail is proud to be part of DVT. With over 1000 staff in the group and 20 years of growth, we have the digital expertise to modernise your business.\n\nDigirail is application agnostic, we do not bring one specific product/tool to the market. What we do bring is a passion for integrating the best applications into core business processes, a focus on helping colleagues begin to adopt those tools and applications and we commit to ensure that data is harnessed from these applications and exploited in the day to day running of rail businesses."
   image: "/images/logo-wide.png"
 portfolio:
   enable: true
