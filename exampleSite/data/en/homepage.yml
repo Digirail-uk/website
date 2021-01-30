@@ -9,6 +9,10 @@ banner:
     enable: true
     label: Services
     link: service
+intro:
+  enable: true
+  title: "We provide you with the best digital tools on the market, we digitise previously manual processes, we integrate digital systems to provide consistency and harmony, we harness data to make decision making, service delivery and profitability achievable."
+  content: "DigiRail sees a future for rail where every colleague embraces digital was of working, where rich data drives most decisions, where industry-wide interactions at both commercial and operational level are delivered via digital tools, and rail users see the benefit of digitisation in the way that they interact with us."
 about:
   enable: true
   icon: 'lightbulb'
