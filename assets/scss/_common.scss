@@ -278,6 +278,12 @@ input[type="tel"] {
 
 }
 
+.dots {
+    background: linear-gradient(90deg, $secondary-color ($dot-space - $dot-size), transparent 1%) center, linear-gradient($secondary-color ($dot-space - $dot-size), transparent 1%) center, white;
+
+    background-size: $dot-space $dot-space;
+    min-height: 220px;
+}
 .testimonial {
     background: linear-gradient(90deg, $bg-color ($dot-space - $dot-size), transparent 1%) center, linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center, $dot-color; 
     background-size: $dot-space $dot-space;
@@ -335,9 +341,26 @@ input[type="tel"] {
  }
 }
 
+.blockimg {
+  h2 {
+   font-family: calibri-bold;
+   font-size: 45px;
+   font-weight: 100;
+   color: white;
+   text-transform: none;
+  }
+}
 .about {
+  padding: 0px 0;
   background: $secondary-color;
-  
+
+  .row {
+   display: flex;
+  } 
+  .container {
+   width: 100%;
+   }
+ 
   .block {
    text-align: center;
 
@@ -347,6 +370,13 @@ input[type="tel"] {
      font-size: 58px;
      color: $tertiary-color;
      text-transform: none;
+   }
+   p {
+    font-family: calibri;
+    test-transform: uppercase;
+    color: $tertiary-color;
+    font-size: 20px;
+    font-style: normal;
    }
   
    .description {
