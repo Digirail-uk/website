@@ -51,24 +51,79 @@
 {{ end }}
 <!-- /into -->
 
+<!-- Fun facts -->
+{{ if $data.homepage.funfacts.enable }}
+{{ with $data.homepage.funfacts }}
+<!-- Content Start -->
+<section class="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-1">
+      </div>
+      <div class="col-xs-12 col-md-10">
+        <div class="block">
+          <ul class="counter-box clearfix">
+            {{ range .funfact_item }}
+            <li class="counter-item">
+              {{ partial "ionicons.html" .icon }}
+              <!-- <i class="{{ .icon }}"></i> -->
+              <h4 class="count" data-count="{{ .count }}">0</h4>
+              <span>{{ .name | markdownify }}</span>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Fun facts -->
+{{ end}}
+{{ end}}
+
+{{ if $data.homepage.block.enable }}
+{{ with $data.homepage.block }}
+<!-- block -->
+<section class="blockimg {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-10 col-sm-5">
+          <h2> {{ partial "ionicons.html" .icon }} </h2>
+	  <h2>{{ .title | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /block -->
+{{ end}}
+{{ end}}
+
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
 <!-- about -->
 <section class="about section">
   <div class="container">
     <div class="row">
-      <div class="col-md-1">
+      <div class="col-md-1 dots">
+	&nbsp;
       </div>
-      <div class="col-md-8 col-sm-12">
+      <div class="col-md-8">
         <div class="block">
           <div class="section-title">
+            <h2>{{ partial "ionicons.html" .icon }} </h2>
             <h2>{{ .title | markdownify }}</h2>
             <p>{{ .subtitle | markdownify }}</p>
           </div>
-	  <div class="description">
-	    {{ .description | markdownify }}
-	  </div>
-          <p>{{ .content | markdownify }}</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-12">
@@ -77,19 +132,38 @@
         </div>
       </div>
     </div>
+    <div class="row">
+      <div class= "col-md-1">
+      </div>
+      <div class="col-md-8 col-sm-12">
+	 <div class="block">
+	  <div class="description">
+	    {{ .description | markdownify }}
+	  </div>
+          <p>{{ .content | markdownify }}</p>
+         </div>
+        </div>
+      <div class="col-md-3 dots">
+	 &nbsp;	
+      </div>
+    </div>
   </div>
 </section>
 <!-- /about -->
 {{ end }}
 {{ end }}
 
-{{ if $data.homepage.portfolio.enable }}
-{{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<section class="feature">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-1">
+      </div>
+      {{ if $data.homepage.portfolio.enable }}
+      {{ with $data.homepage.portfolio }}
+      <div class="col-md-5">
+       <div class="col-md-12">
+	<h2>{{ partial "ionicons.html" .icon }} </h2>
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
         {{ if .button.enable }}
@@ -97,6 +171,25 @@
         <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
         {{ end }}
         {{ end }}
+       </div>
+      </div>
+      {{ end }}
+      {{ end }}
+
+      {{ if $data.homepage.cta.enable }}
+      {{ with $data.homepage.cta }}
+      <div class="col-md-5">
+       <div class="col-md-12">
+	<h2>{{ partial "ionicons.html" .icon }} </h2>
+        <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
+        {{ .content | markdownify }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <br><br>
+        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+       </div>
       </div>
     </div>
   </div>
@@ -111,58 +204,5 @@
 {{ end }}
 <!-- /service -->
 
-<!-- Call to action -->
-{{ if $data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /Call to action -->
-
-{{ if $data.homepage.funfacts.enable }}
-{{ with $data.homepage.funfacts }}
-<!-- Content Start -->
-<section class="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-	      {{ partial "ionicons.html" .icon }}
-              <!-- <i class="{{ .icon }}"></i> -->
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .testimonial_slider }}
-            <div>
-              <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end}}
-{{ end}}
 
 {{ end }}

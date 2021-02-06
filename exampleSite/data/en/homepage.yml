@@ -15,7 +15,7 @@ intro:
   content: "DigiRail sees a future for rail where every colleague embraces digital was of working, where rich data drives most decisions, where industry-wide interactions at both commercial and operational level are delivered via digital tools, and rail users see the benefit of digitisation in the way that they interact with us."
 about:
   enable: true
-  icon: 'lightbulb'
+  icon: 'ios-bulb'
   title: 'Why DigiRail? Why Now? '
   subtitle: Powered by DVT
   description: "We call it Digitising the Details, and we are on a mission to help rail businesses do just that. Those that do will be perfectly placed to exploit the data, efficiency and opportunity that infrastructure level digitisation will bring."  
@@ -24,6 +24,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg2.jpg
+  icon: ios-bulb
   title: WE BELIEVE IN DIGITISING THE BASICS
   content: |-
     For too long, rail industry data and industry processes have lived in a filing cabinet, DigiRail is here to relocate that into an accessible place in a format that can be used, measured, analysed layered approach, getting the foundations right.
@@ -34,9 +35,15 @@ portfolio:
     link: project
 service:
   enable: false
+block:
+  enable: true
+  bg_overlay: true
+  bg_image: images/shutterstock_1033569370.png
+  icon: ios-bulb
+  title: "DigiRail has a single industry focus backed by a multi-national mutil-disciplinary delivery capability."
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  icon: ios-bulb
   title: Digital Engineers with a Passion for Rail
   content: Learn more about DVT and our global industry experience.  Find case studies
     that feel close to home, understand lessons that can be learnt from adjacent industries
@@ -47,7 +54,7 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
+  title: Facts About DigiRail
   description: DigiRail was created in 2020 by DVT, which was created in 1999.
   funfact_item:
   - icon: ion-ios-chatboxes-outline

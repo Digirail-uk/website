@@ -1,15 +1,18 @@
 .footer{
-  background: #F5F5F5;
+  background: #c5c5c5;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom: 55px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: calibri-bold;
+  font-size: 21px;
   p{
-    font-size: 13px;
+    font-family: calibri;
+    font-size: 14px;
     line-height: 25px;
-    color: #919191;   
+    color: #fff;   
   }
   a{
-    color: #595959;
+    color: #fff;
   }
   .footer-manu{
     padding-bottom: 25px;
@@ -21,7 +24,7 @@
         padding: 0px 20px;
         a{
           display: inline-block;
-          color: #494949;
+          color: #fff;
           &:hover{
             color: #000;
           }
