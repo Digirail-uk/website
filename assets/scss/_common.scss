@@ -437,6 +437,9 @@ input[type="tel"] {
 
     h1 {
       color: $light;
+      font-family: calibri-bold;
+      font-weight: 100;
+      font-size: 58px;
       font-weight: 200;
       letter-spacing: 6px;
       margin-top: 0;
@@ -444,7 +447,9 @@ input[type="tel"] {
     }
 
     p {
+      font-family: calibri;
       color: $light;
+      text-transform: uppercase;
     }
   }
 }
