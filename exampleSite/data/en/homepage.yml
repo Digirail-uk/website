@@ -11,24 +11,22 @@ banner:
     link: service
 intro:
   enable: true
-  title: "We provide you with the best digital tools on the market, we digitise previously manual processes, we integrate digital systems to provide consistency and harmony, we harness data to make decision making, service delivery and profitability achievable."
-  content: "DigiRail sees a future for rail where every colleague embraces digital was of working, where rich data drives most decisions, where industry-wide interactions at both commercial and operational level are delivered via digital tools, and rail users see the benefit of digitisation in the way that they interact with us."
+  title: "We provide you with the best digital tools on the market, digitise previously manual processes, integrate digital systems to provide consistency and harmony, harness data to make decision-making, service delivery, and profitability achievable."
+  content: "DigiRail sees a future for rail where every colleague embraces the digital way of working, where rich data drives most decisions, where industry-wide interactions at both commercial and operational level delivered via digital tools, and rail users see the benefit of digitisation in the way that they interact with us."
 about:
   enable: true
-  icon: 'ios-bulb'
+  icon: 'innovation-dot'
   title: 'Why DigiRail? Why Now? '
   subtitle: Powered by DVT
   description: "We call it Digitising the Details, and we are on a mission to help rail businesses do just that. Those that do will be perfectly placed to exploit the data, efficiency and opportunity that infrastructure level digitisation will bring."  
-  content: "\nDigiRail is proud to be part of DVT. With over 1000 staff in the group and 20 years of growth, we have the digital expertise to modernise your business.\n\nDigirail is application agnostic, we do not bring one specific product/tool to the market. What we do bring is a passion for integrating the best applications into core business processes, a focus on helping colleagues begin to adopt those tools and applications and we commit to ensure that data is harnessed from these applications and exploited in the day to day running of rail businesses."
+  content: "\nDigiRail is proud to be part of DVT. With over 1000 staff in the group and 20 years of growth, we have the digital expertise to modernise your business.\n\nDigirail is application-agnostic; we do not bring one specific product/tool to the market. We bring a passion for integrating the best applications into core business processes, focusing on helping colleagues begin to adopt those tools and applications, and we commit to ensuring that data is harnessed from these applications and exploited in the day to day running of rail businesses."
   image: "/images/logo-wide.png"
 portfolio:
   enable: true
   bg_image: images/feature-bg2.jpg
-  icon: ios-bulb
+  icon: digitsing
   title: WE BELIEVE IN DIGITISING THE BASICS
-  content: |-
-    For too long, rail industry data and industry processes have lived in a filing cabinet, DigiRail is here to relocate that into an accessible place in a format that can be used, measured, analysed layered approach, getting the foundations right.
-    Fast and affordable projects that gain rapid adoption and deliver benefits quickly.
+  content: For too long, rail industry data and industry processes have lived in a filing cabinet. DigiRail is here to relocate that into an accessible place in a format that can be used, measured, analysed layered approach and gets the foundations right. Fast and affordable projects that gain rapid adoption and deliver benefits quickly.
   button:
     enable: false
     label: View Works
@@ -39,11 +37,11 @@ block:
   enable: true
   bg_overlay: true
   bg_image: images/shutterstock_1033569370.png
-  icon: ios-bulb
-  title: "DigiRail has a single industry focus backed by a multi-national mutil-disciplinary delivery capability."
+  icon: about
+  title: "DigiRail has a single industry focus backed by a multi-national multi-disciplinary delivery capability."
 cta:
   enable: true
-  icon: ios-bulb
+  icon: engineers-dot
   title: Digital Engineers with a Passion for Rail
   content: Learn more about DVT and our global industry experience.  Find case studies
     that feel close to home, understand lessons that can be learnt from adjacent industries
@@ -57,16 +55,16 @@ funfacts:
   title: Facts About DigiRail
   description: DigiRail was created in 2020 by DVT, which was created in 1999.
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
+  - icon: employees-dot
     name: Employees
     count: "500"
-  - icon: ion-ios-glasses-outline
+  - icon: service-dot
     name: Service
     count: "10"
-  - icon: ios-people
+  - icon: happy-dot
     name: Happy customers
     count: "101"
-  - icon: ios-timer
+  - icon: global-dot
     name: Global offices
     count: "5"
   testimonial_slider: []
