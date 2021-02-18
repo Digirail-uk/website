@@ -1,3 +1,6 @@
+# DigiRail website 
+[Visit us for the digital future of rail](https://www.digirail.com "DigiRail Homepage")
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with airspace hugo theme by following this easy steps (No Coding Required)
 
