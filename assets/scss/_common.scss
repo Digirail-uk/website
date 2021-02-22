@@ -286,6 +286,12 @@ input[type="tel"] {
     background-size: $dot-space $dot-space;
     min-height: 220px;
 }
+.dots-yellow {
+    background: linear-gradient(90deg, white ($dot-space - $dot-size), transparent 1%) center, linear-gradient(white ($dot-space - $dot-size), transparent 1%) center, $secondary-color;
+
+    background-size: $dot-space $dot-space;
+    min-height: 220px;
+}
 .testimonial {
     background: linear-gradient(90deg, $bg-color ($dot-space - $dot-size), transparent 1%) center, linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center, $dot-color; 
     background-size: $dot-space $dot-space;
@@ -440,7 +446,7 @@ input[type="tel"] {
       color: $light;
       font-family: calibri-bold;
       font-weight: 100;
-      font-size: 58px;
+      font-size: 110px;
       font-weight: 200;
       letter-spacing: 6px;
       margin-top: 0;
@@ -451,6 +457,7 @@ input[type="tel"] {
       font-family: calibri;
       color: $light;
       text-transform: uppercase;
+      font-size: 20px;
     }
   }
 }

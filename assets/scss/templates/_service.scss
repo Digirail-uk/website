@@ -1,7 +1,22 @@
 .service {
   text-align: center;
-  padding: 90px 0;
+  padding: 10px 0;
+  background-color: $secondary-color;
 
+  h2 {
+    font-family: calibri-bold;
+    font-size: 54px;
+    color: $tertiary-color;
+}
+  .section-title {
+     p {
+       font-family: calibri;
+       font-size: 26px;
+       text-transform: uppercase;
+       font-style: normal;
+       color: $primary-color;
+     }
+   }
   .service-item {
     padding-bottom: 30px;
 
@@ -14,7 +29,8 @@
       padding-top: 15px;
       margin: 0;
       font-weight: 500;
-      text-transform: uppercase;
+      font-family: georgia-bold;
+      font-size: 39px;
     }
 
     p {
@@ -54,8 +70,17 @@
 }
 
 .service-about {
+  h2 { 
+       text-align: center; 
+       color: $tertiary-color;
+	}
+  h3 {
+       color: $primary-color;
+     }
   p {
     line-height: 28px;
+    font-family: calibri;
+    font-size: 27px; 
   }
 }
 
