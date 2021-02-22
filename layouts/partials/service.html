@@ -9,8 +9,10 @@
       </div>
     </div>
     <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
       {{ range .service_item }}
-      <div class="col-sm-6 col-md-3">
+      <div class="col-sm-6 col-md-4">
         <div class="service-item">
 	  {{ partial "ionicons.html" .icon }}
           <!-- <i class="icon {{ .icon }}"></i> --> 
@@ -19,6 +21,8 @@
         </div>
       </div>
       {{ end }}
+      </div>
+      <div class="col-md-1 dots"></div>
     </div>
   </div>
 </section>
