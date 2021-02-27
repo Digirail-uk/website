@@ -7,7 +7,19 @@
     font-family: calibri-bold;
     font-size: 54px;
     color: $tertiary-color;
-}
+  }
+  
+  .center-align {
+    text-align: center;
+    font-size: 0;
+  }
+
+  .center-align [class*='col-'] {
+    display: inline-block;
+    vertical-align: top;
+    float: none;
+  }
+
   .section-title {
      p {
        font-family: calibri;
