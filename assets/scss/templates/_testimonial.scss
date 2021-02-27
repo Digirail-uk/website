@@ -1,4 +1,14 @@
 .testimonial {
+  .center-align {
+    text-align: center;
+    font-size: 0;
+  }
+
+  .center-align [class*='col-'] {
+    display: inline-block;
+    vertical-align: top;
+    float: none;
+  }
 	padding: 10px 0;
 
 	.block {

@@ -1,7 +1,7 @@
 ---
 title: About DigiRail
 description: ''
-bg_image: images/featue-bg.jpg
+bg_image: images/9.png
 
 ---
 At a system level UK Rail is digitizing. Whether that be the introduction of ERTMS, the opening of new digitally enable control centres or the deployment of modern, connected rolling stock, the big ticket digital change is coming.

@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/about.jpg
+  image: images/9.png
   title: 'DigiRail is part of DVT '
   content: "In late 2019 technology entrepreneurs Tim Robinson and Chris Wilkins met
     to exchange notes on an opportunity to collaborate. Tim, a digital leader with
@@ -17,6 +17,7 @@ about:
     enable: true
     label: Learn more about DVT
     link: "#www.dvtsoftware.com"
+  facts: The power of DVT
   funfacts:
   - icon: ios-time
     name: Years of Experience
@@ -38,10 +39,8 @@ features:
   title: Our services to enhance your railway company.
   feature_item:
   - icon: ios-lock
-    name: Cyber Security Specifically designed for rail.
-    content: 'The rail landscape is different from any other from a cyber security
-      perspective with dispersed geographical infrastructure through to unique control
-      methodology means rail requires a bespoke and focused approach to security. '
+    name: Cyber Security designed for rail.
+    content: 'The rail landscape is different from any other from a cyber security perspective with dispersed geographical through to unique control methodology. '
   - icon: ios-color-filter
     name: Cloud Migration
     content: Moving legacy systems to the cloud, not only reduces costs, but also
@@ -56,10 +55,7 @@ features:
       and transformation to your railway business.
   - icon: ios-microphone
     name: Agile Consulting and Coaching
-    content: We specialise in Agile training, consulting and coaching to assist organisations
-      with their Agile transformation journey. Our clients are reaping the business
-      benefits of an Agile approach to software development and remain ahead of their
-      competitors.
+    content: We specialise in Agile training, consulting and coaching to assist organisations with their Agile transformation journey. 
   - icon: ios-bulb
     name: UI/UX Design
     content: With services ranging from UX research, design sprints, user testing
@@ -73,7 +69,7 @@ features:
 testimonial:
   enable: false
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: To provide railway companies with digital solutions that will help them
