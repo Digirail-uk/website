@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "DigiRail | Digitising the Details"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Dynamic Visual Technologies](https://dvtsoftware.com) All Rights Reserved"
+copyright = "Copyright &copy; 2021 [Dynamic Visual Technologies](https://dvtsoftware.com) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
