@@ -74,8 +74,6 @@ link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/Ionicons/css/ionicons.min.css"
-[[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
@@ -92,7 +90,7 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
