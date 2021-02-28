@@ -55,7 +55,7 @@ email = "info@digirail.uk"
 google_analitycs_id = ""
 location = "Suite 1, Concourse, Waterloo Station, London, United Kingdom"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "200"
 mobile = "020 34223400"
 multi_author = false
 [params.cookies]
