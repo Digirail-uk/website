@@ -53,7 +53,7 @@ cta:
 funfacts:
   enable: true
   title: Facts About DigiRail
-  description: DigiRail was created in 2020 by DVT, which was created in 1999.
+  description: DigiRail was founded in 2020 and is a subsidiary of DVT, a Dynamic Technologies company.
   funfact_item:
   - icon: employees-dot
     name: Employees
